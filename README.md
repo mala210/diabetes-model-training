@@ -38,3 +38,13 @@ The dataset includes multiple health-related features such as:
 - xgboost
 
 ## Project Structure
+- diabetes_model_training.ipynb
+
+## Notes
+The dataset should be uploaded manually when running the notebook.
+
+## Purpose
+This project demonstrates:
+- Data preprocessing
+- Machine learning model training
+- Model evaluation and comparison
